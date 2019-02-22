@@ -10,7 +10,7 @@ def weave(s1,s2):
 			s+=""
 	return s
 
-s1 = "tiiaidnesg...."
-s2 = "hsshdemsae"
+s1 = "ti sahde esg."
+s2 = "hsi  idnmsae"
 
 print(weave(s1,s2))
