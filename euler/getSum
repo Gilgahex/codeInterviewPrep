@@ -1,0 +1,6 @@
+def getSum(N):
+	list = []
+	for e in range(N):
+		if e%3 or e%5 == 0:
+			list.extend(e)
+	return sum(list)

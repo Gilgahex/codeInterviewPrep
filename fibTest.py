@@ -27,4 +27,4 @@ def fibBottomUp(n):
 		bottom_up[i] = bottom_up[i-1] + bottom_up[i-2]
 	return bottom_up[n]
 	
-print(fibBottomUp(50))
+print(fibBottomUp(23))
